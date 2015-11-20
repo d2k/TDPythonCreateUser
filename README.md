@@ -1,6 +1,8 @@
 # TDPythonCreateUser
 Create a random password, create a user and send the password to the user via email
 
+feel free to donate bitcoin:12kgAUHFUqvG2sQgaRBXFhCwyf9HXdkGud?label=TeradataDev
+
 ##Install
 
 clone the repository or download and unzip the zip file
